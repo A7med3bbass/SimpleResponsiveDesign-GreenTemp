@@ -1,0 +1,35 @@
+body{
+
+}
+.navbar{
+  margin-bottom: 0;
+  border-radius: 0;
+  opacity: 100%;
+}
+
+.header{
+  background-image: url('../img/h1.jpg');
+  background-repeat: no-repeat;
+  background-position: top center;
+  -webkit-background-size: cover;﻿
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 92vh;
+  color: #fff;
+  position: relative;
+  border-bottom: 2px solid black;
+}
+
+.ss{
+  margin-top: 500px;
+  position: absolute;
+  margin-left: 600px
+}
+
+.ss img{
+  width: 100px;
+  height: 100px;
+  top: -50px;
+  position: absolute;
+}
